@@ -5,8 +5,8 @@ Disciplina Desenvolvimento para Dispositivos Móveis I.
 
 
 Integrantes do grupo 
-Laura Santana
-Radmila Lopes
+Laura Santana;
+Radmila Lopes;
 Tifani Mendonça
 
 
